@@ -1,0 +1,7 @@
+cmake-*
+.idea
+.vs
+.vscode
+out
+build
+saved_level.json
